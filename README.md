@@ -115,8 +115,10 @@ setx /m QT_QPA_PLATFORM_PLUGIN_PATH C:\Qt\Qt5.12.12\5.12.12\msvc2017_64\plugins\
 [github release page](https://github.com/ros2/ros2/releases) 에서
 
 ros2-humble-*-windows-release-amd64.msi 설치
+
 ***제일최신버전깔지말것이것때문에3일걸렸다미친***
-> ROS2 humble 제일 오래된 것 ros2다
+
+> ROS2 humble 제일 오래된 것 깔았습니다
 
 ## 🔗 참고 링크
 공식 문서: [docs.ros.org](https://docs.ros.org/en/crystal/Installation/Windows-Install-Binary.html) (Windows Install)
